@@ -7,3 +7,6 @@ learn machine learning
 4. Persistant models.py
 5. music-suggestion.joblib
 6. Persistent-model-ai-bot.py
+7. Visualize-Decision-Tree.py
+8. Music-recording.dot
+9. Visualized-Tree.png
